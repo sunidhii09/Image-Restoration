@@ -22,7 +22,7 @@ pip install torch opencv-python numpy
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/image-restoration-colorization.git
+git clone https://github.com/sunidhii09/Image-Restoration.git
 cd image-restoration-colorization
 ```
 
