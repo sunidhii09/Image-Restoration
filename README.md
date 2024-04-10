@@ -28,10 +28,5 @@ cd image-restoration
 
 2. Download the pre-trained Gfpgan model weights. You can find them [here]([https://example.com/gfpgan_weights.pth](https://github.com/TencentARC/GFPGAN)), then place the weights file inside the `path/` directory.
 
-3. Run the script `index.py` to restore and colorize images:
-
-```
-python index.py --input_path /path/to/your/input/image.jpg --output_path /path/to/save/output/image.jpg
-```
-
+3. Run the script `index.py` to restore and colorize images.
 Replace the path with the path to the image you want to restore and colorize, and the output path with the desired path to save the output image.
