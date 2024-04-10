@@ -35,9 +35,3 @@ python index.py --input_path /path/to/your/input/image.jpg --output_path /path/t
 ```
 
 Replace the path with the path to the image you want to restore and colorize, and the output path with the desired path to save the output image.
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Adjust the README file according to your project specifications, including proper citations, license information, and any other relevant details. Additionally, provide detailed instructions on how to use the project and any customizations or options available.
