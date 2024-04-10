@@ -23,7 +23,7 @@ pip install torch opencv-python numpy
 
 ```
 git clone https://github.com/sunidhii09/Image-Restoration.git
-cd image-restoration-colorization
+cd image-restoration
 ```
 
 2. Download the pre-trained Gfpgan model weights. You can find them [here]([https://example.com/gfpgan_weights.pth](https://github.com/TencentARC/GFPGAN)), then place the weights file inside the `path/` directory.
